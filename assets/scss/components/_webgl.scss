@@ -1,0 +1,12 @@
+canvas{
+    position: fixed;
+    background: linear-gradient(135deg,  #00c9a1 0%, #11e4e8 100% );
+    top: 0;
+    left: 0;
+    outline: none;
+}
+canvas:active{                
+    cursor:grabbing;          
+    cursor:-webkit-grabbing;      
+    cursor:-moz-grabbing;           
+ }

@@ -1,0 +1,38 @@
+canvas {
+  position: fixed;
+  background: linear-gradient(135deg, #00c9a1 0%, #11e4e8 100%);
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+canvas:active {
+  cursor: grabbing;
+  cursor: -webkit-grabbing;
+  cursor: -moz-grabbing;
+}
+
+h1,
+.h1 {
+  font-size: large;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+html,
+body {
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=main.css.map */
